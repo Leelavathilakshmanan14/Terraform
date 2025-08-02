@@ -33,7 +33,8 @@ git push origin main
 
 > Replace `main` with `master` if your default branch is named `master`.
 
----
+---<img width="1256" height="515" alt="Screenshot 2025-07-26 114557" src="https://github.com/user-attachments/assets/5fcf1930-9187-41c4-b7fb-5a1f46c6f9be" />
+
 
 ## 🔄 Pull Latest Changes from GitHub
 
